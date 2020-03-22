@@ -1,0 +1,243 @@
+@media only screen and (max-width: 600px) and (min-width: 555px){
+
+	.contact_map{
+
+		margin-top: 40px;
+
+	}
+
+}
+
+
+
+@media only screen and (max-width: 604px){
+
+	.topo{
+
+		flex-direction: column;
+
+		background-color: #232730;
+
+		position: fixed;
+
+		z-index: 999;
+
+		width: 100%;
+
+	}
+
+	.menu{
+
+		display:none;
+
+		height: auto;
+
+		position: absolute;
+
+		margin-top: 105px;
+
+		padding: 0;
+
+		min-width: 100%;
+
+		align-items: flex-start;
+
+		background-color: #232730;
+
+	}
+
+	.menu ul{
+
+		width: 100%;
+
+		flex-direction: column;
+
+		justify-content: center;
+
+		align-items: center;
+
+	}
+
+	.menu ul a{
+
+		height: auto;
+
+		line-height: 50px;
+
+		width: 100%;
+
+		text-align: center;
+
+		margin:0;
+
+		padding:0;
+
+	}
+
+	.menu_mobile {
+
+		display: block;
+
+		min-height: 70px;
+
+		max-height: 70px;
+
+		width: 100%;
+
+	}
+
+	.menu_mobile img {
+
+		width: 70px;
+
+	}
+
+	.menu-fixed{
+
+		display: none;
+
+	}
+
+}
+
+
+
+@media only screen and (max-width: 495px){
+
+	#slide{
+
+		margin-top: 175px;
+
+		width: 100%;
+
+	}
+
+	.slide, .slideshowarea{
+
+		height: 450px;
+
+	}
+
+	.borda_inferior {
+
+		margin-top: 425px;
+
+	}
+
+	.slide_body{
+
+		margin-top: 80px;
+
+		margin-left: 15px;
+
+		margin-left: 15px;
+
+	}
+
+	.slide_subtitle{
+
+		line-height: 20px;
+
+	}
+
+	.topo{
+
+		width: 100%;
+
+	}
+
+	.logo{
+
+		width: 100%;
+
+	}
+
+}
+
+
+
+@media only screen and (max-width: 375px){
+
+	.contact_int{
+
+		width: 100%;
+
+	}
+
+	.whats_clients_say_topo_int{
+
+		width: 100%;
+
+	}
+
+	.say_image img{
+
+		width: 80%;
+
+		min-width: 300px;
+
+		height: auto;
+
+	}
+
+	.say_text{
+
+		min-width: 300px;
+
+	}
+
+	.blog_int{
+
+		width: 100%;
+
+	}
+
+	.blog_body_int{
+
+		margin-left: 15px;
+
+		margin-right: 15px;
+
+		padding: 0;
+
+	}
+
+	.blog_body_left, .blog_body_right{
+
+		min-width: 280px;
+
+		margin:0;
+
+	}
+
+	.title_blog{
+
+		margin-left: 10px;
+
+	}
+
+	.blog_body_int{
+
+
+
+	}
+
+	.contact_form{
+
+		min-width: 270px;
+
+	}
+
+	.contact_map{
+
+		min-width: 280px;
+
+	}
+
+	.blog_body{
+
+		margin-top: 115px;
+
+	}
+
+}
